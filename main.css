@@ -1,0 +1,191 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+aside {
+  background: #1e2939;
+  width: 370px;
+}
+
+body {
+  background: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.my-element {
+  color: rgb(185, 0, 185);
+}
+.fff-contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.ccc-Tech-skills {
+  width: 300px;
+  padding-left: 40px;
+  padding-top: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.Tech-skills-title {
+  font-size: 30px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.Tech-skills-item {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+}
+.Tech-skills-text {
+  color: #f5f7fa;
+}
+.Soft-skills-item {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+}
+.Soft-skills-text {
+  color: #f5f7fa;
+}
+.soft--skills-title {
+  font-size: 30px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.bbb-Soft-skills {
+  width: 400px;
+  padding-left: 40px;
+  padding-top: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.img1 {
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.aaa-about-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.c-tel {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.e-mail {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.tel {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #434c5a;
+  margin-right: 10px;
+}
+.mail {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #434c5a;
+}
+.cont {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+}
+.sss-work-exp {
+}
+
+.name {
+  color: #000000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.lorem {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.lorem-container {
+  margin-bottom: 64px;
+}
+.projects-title {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.projects-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  border-collapse: collapse;
+}
+
+a :hover {
+  background: lightslategray;
+}
+a :link {
+  color: blue;
+}
+.tech-name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.krapka {
+  color: #595959;
+}
+.projects-container {
+  margin-bottom: 64px;
+}
+.f-d-freelance {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.freelance {
+  color: #ff6b08;
+}
+.time {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.text-ul {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
